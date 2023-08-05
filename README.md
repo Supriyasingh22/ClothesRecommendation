@@ -42,7 +42,7 @@ The Clothes Recommendation System is designed to provide accurate clothing recom
 ## Installation
 
 1. Clone this repository: `git clone https://github.com/Supriyasingh22/ClothesRecommendation`
-2. Navigate to the project directory: `cd Clothesrecommendation`
+2. Navigate to the project directory: `cd ClothesRecommendation`
 3. Install dependencies: `npm install`
 4. Configure the ResNet50 model and integrate it with the clothing database.
 5. Start the Streamlit application: `streamlit run main.py`
