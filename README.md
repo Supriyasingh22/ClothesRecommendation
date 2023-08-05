@@ -39,8 +39,15 @@ The Clothes Recommendation System is designed to provide accurate clothing recom
 - **Top Five Matches**: Access a curated list of the top five clothing items that closely match the user's uploaded image.
 - **Personalized Shopping**: Discover clothing items tailored to your style and preferences, enhancing your shopping journey.
 
+## Installation
 
- Access the application via your web browser at `http://localhost:8501`
+1. Clone this repository: `git clone https://github.com/Supriyasingh22/ClothesRecommendation`
+2. Navigate to the project directory: `cd Clothesrecommendation`
+3. Install dependencies: `npm install`
+4. Configure the ResNet50 model and integrate it with the clothing database.
+5. Start the Streamlit application: `streamlit run main.py`
+6. Access the application via your web browser at `http://localhost:8501`
+ 
 
 ## Usage
 
